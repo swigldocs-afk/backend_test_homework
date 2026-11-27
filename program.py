@@ -1,5 +1,3 @@
-"""A simple object-oriented Snake game built with Pygame."""
-
 from random import randint
 
 import pygame
